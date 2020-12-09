@@ -6,4 +6,10 @@
 - 1 star for each puzzle
 
 ### Day 1 Report Repair
-(Report Repair)[day_1.py]
+- [Report Repair](Day1/day_1.py)
+
+### Day 2 Password Philosophy
+- [Password Philosophy](Day2/day_2.py)
+
+### Day 3 Toboggan Trajectory
+- [Toboggan Trajectory](Day3/day_3.py)
