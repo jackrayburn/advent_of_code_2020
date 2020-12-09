@@ -8,7 +8,8 @@ for i in data:
     len(i) 
 # 31
 # 3 right, 1 down
-
+del data[0]
+print(data[0])
 # track position across data
 pos = 0
 for row in data:
